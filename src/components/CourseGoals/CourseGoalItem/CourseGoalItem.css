@@ -1,0 +1,19 @@
+.goal-item {
+  margin: 1rem 0;
+  background: #37bfa4;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer;
+  border-radius: 8px;
+  border: 1px solid #37bfa4;
+
+}
+
+
+.goal-item:hover{
+  background: #b1d0ca;
+  border-color: #37bfa4;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.26);
+  transform: translate(0.25em);
+}
